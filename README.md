@@ -1,9 +1,11 @@
 
   # READMEgen
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  A simple readme generator written with NodeJS. Uses Inquirer and Axios libraries.
+  A simple readme generator written with NodeJS. Uses Inquirer and Axios libraries
+  
+  [Video demonstration](https://youtu.be/2DLg-6Hrh7M)
 
   ## Table of Contents
   - [Installation](#Installation)
@@ -20,13 +22,13 @@
   `node index.js`
   
   ## License
-  This project is covered under the The Unlicense
+  This project is covered under the MIT License
 
   ## Contributing
-  Please fork the repository, make changes on the fork, push changes to your fork, then do a pull request
+  Please contribute by making a fork of the repository and making pull requests from the fork.
 
   ## Tests
-  No tests at this time
+  There are currently no tests.
 
   ## Questions
   - Github is [rytc](https://github.com/rytc)
