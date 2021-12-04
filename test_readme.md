@@ -1,4 +1,5 @@
 # t
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
   ## Description
   t
@@ -14,6 +15,9 @@
 
   ## Usage
   t
+  
+  ## License
+  This project is covered under the GNU Affero General Public License v3.0
 
   ## Contributing
   t
@@ -25,5 +29,4 @@
   - Github is [t](https://github.com/t)
   - Email is [t](t)
 
-  ## License
-  This project is covered under the GNU Affero General Public License v3.0
+  

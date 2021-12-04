@@ -8,32 +8,32 @@ const questions = [
     {
         type: 'input',
         name: 'title', 
-        message: "Project Title"
+        message: "Project Title:"
     },
     {
         type: 'input',
         name: 'description',
-        message: "Project Description"
+        message: "Project Description: "
     },
     {
         type: 'input', 
         name: 'install_instructions',
-        message: "Installation Instructions"
+        message: "Installation Instructions: "
     },
     {
         type: 'input',
         name: 'usage',
-        message: "Usage Information",
+        message: "Usage Information: ",
     },
     {
         type: 'input',
         name: 'contribution',
-        message: "Contribution Guidelines",
+        message: "Contribution Guidelines: ",
     },
     {
         type: 'input',
         name: 'test_instructions',
-        message: "Test Instructions",
+        message: "Test Instructions: ",
     },
     {
         type: 'list',
@@ -47,12 +47,12 @@ const questions = [
     {
         type: 'input',
         name: 'github_username',
-        message: 'Github Username',
+        message: 'Github Username: ',
     },
     {
         type: 'input',
         name: 'email',
-        message: 'Email address'
+        message: 'Email address: '
     }
 ];
 
