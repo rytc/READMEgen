@@ -111,7 +111,7 @@ function init() {
         // Ask the user all the questions
         inq.prompt(questions).then(answers => {
             // Once questions are answered, write it to file
-            writeToFile("test_readme.md", answers)
+            writeToFile("readme.md", answers)
         }).catch(err => {
             console.log("Error! " + err)
         })
