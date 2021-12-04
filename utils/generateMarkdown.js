@@ -13,8 +13,10 @@ function generateMarkdown(data, licenseList) {
   ## Table of Contents
   - [Installation](#Installation)
   - [Usage](#Usage)
+  - [License](#License)
   - [Contributing](#Contributing)
   - [Tests](#Test-Instructions)
+  - [Questions](#Questions)
 
   ## Installation
   ${data.install_instructions}
