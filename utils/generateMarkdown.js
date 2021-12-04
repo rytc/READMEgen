@@ -3,7 +3,8 @@
 function generateMarkdown(data, licenseList) {
 
   
-  return `# ${data.title}
+  return `
+  # ${data.title}
   ${data.badge}
 
   ## Description
@@ -16,7 +17,7 @@ function generateMarkdown(data, licenseList) {
   - [Tests](#Test-Instructions)
 
   ## Installation
-  ${data.installation_instructions}
+  ${data.install_instructions}
 
   ## Usage
   ${data.usage}
