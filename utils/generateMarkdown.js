@@ -4,7 +4,7 @@ function generateMarkdown(data, licenseList) {
 
   
   return `# ${data.title}
-  ${badge}
+  ${data.badge}
 
   ## Description
   ${data.description}
@@ -22,7 +22,7 @@ function generateMarkdown(data, licenseList) {
   ${data.usage}
   
   ## License
-  This project is covered under the ${license.name}
+  This project is covered under the ${data.license.name}
 
   ## Contributing
   ${data.contribution}

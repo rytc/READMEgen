@@ -1,8 +1,8 @@
-# t
-  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# test
+  [![License](https://img.shields.io/badge/License-BSL%201.0-green)](https://opensource.org/licenses/BSL-1.0)
 
   ## Description
-  t
+  test
 
   ## Table of Contents
   - [Installation](#Installation)
@@ -14,19 +14,19 @@
   undefined
 
   ## Usage
-  t
+  test
   
   ## License
-  This project is covered under the GNU Affero General Public License v3.0
+  This project is covered under the Boost Software License 1.0
 
   ## Contributing
-  t
+  test
 
   ## Tests
-  t
+  test
 
   ## Questions
-  - Github is [t](https://github.com/t)
-  - Email is [t](t)
+  - Github is [rytc](https://github.com/rytc)
+  - Email is [rytc](rytc)
 
   

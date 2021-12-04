@@ -1,4 +1,4 @@
-const { default: axios } = require('axios');
+const axios = require('axios');
 const inq = require('inquirer')
 const genMarkdown = require('./utils/generateMarkdown.js')
 const fs = require('fs')
@@ -86,13 +86,10 @@ function writeToFile(filename, data) {
     for(let i = 0; i < licenseList.length; i++) {
         if(data.licenseId === licenseList[i].spdx_id.toLowerCase()) {
         data.license = licenseList[i]
-        data.badge = badges[data.license]
+        data.badge = badges[data.licenseId]
         break;
         }
     }
-
-
-
 
     // Write the generated markdown to the file
     fs.writeFile(filename, genMarkdown(data, licenseList), (err) => {
